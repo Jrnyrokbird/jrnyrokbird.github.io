@@ -1,5 +1,5 @@
 # 简介
-Github作为知识管理的Core，调整多端碎片化知识的现状
+Github作为知识管理的Core，组织调整多端碎片化知识的现状
 
 - [Blog](https://jrnyrokbird.github.io/blog) - 统筹各种公开内容
 - [Axure Share]() - 暂停
